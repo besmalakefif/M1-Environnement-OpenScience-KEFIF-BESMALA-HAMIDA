@@ -25,6 +25,9 @@ Découverte du développement collaboratif, du versionnement et de la reproducti
 
 Analyse de données environnementales.
 
+\## Analyse des précipitations
+
+L'étude des précipitations permet de suivre les variations temporelles des conditions hydrologiques et météorologiques.
 
 
 \## Données environnementales
